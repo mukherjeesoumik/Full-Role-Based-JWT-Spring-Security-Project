@@ -1,4 +1,4 @@
-# Full Role Based JWT Spring Security Project
+# Role Based JWT Spring Security Project
 
 ## (com.example.myproject)
 ## 1. Project structure
